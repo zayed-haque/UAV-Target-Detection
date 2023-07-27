@@ -3,8 +3,8 @@ import numpy as np
 import pyyolo
 
 names_filepath = "obj.names"
-cfg_filepath = r"C:\Users\zayed\Downloads\bb_coordinate\yolov3_custom.cfg"
-weights_filepath = r"C:\Users\zayed\Downloads\bb_coordinate\yolov3_custom_final.weights"
+cfg_filepath = r"yolov3_custom.cfg"
+weights_filepath = r"yolov3_custom_final.weights"
 
 image_filepath = '1.jpg'
 
