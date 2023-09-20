@@ -23,3 +23,4 @@ The target detection system achieves an impressive 87% precision on general targ
 - ArduPilot (for deployment on UAVs)
 
 ![Target](https://github.com/zayed-haque/UAV-Target-Detection/blob/main/data/Target.jpg)
+![Model](https://github.com/zayed-haque/UAV-Target-Detection/blob/main/data/3d%20Model.jpg)
